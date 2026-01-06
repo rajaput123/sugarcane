@@ -1,0 +1,28 @@
+src/components/assets/modules/compliance/AssetCompliance.tsx(47,17): error TS2322: Type '{ children: Element; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/assets/modules/disposal/AssetDisposal.tsx(49,17): error TS2322: Type '{ children: Element; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/assets/modules/maintenance/AssetMaintenance.tsx(51,17): error TS2322: Type '{ children: Element; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/assets/modules/movement/AssetMovement.tsx(58,17): error TS2322: Type '{ children: Element; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/assets/modules/usage/AssetUsageRequestView.tsx(115,21): error TS2322: Type '{ children: Element; isOpen: true; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/assets/modules/valuation/AssetValuation.tsx(47,17): error TS2322: Type '{ children: Element; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/operations/seva-darshan/SevaDarshanManagement.tsx(280,68): error TS2322: Type '{ children: Element[]; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/operations/temple/TempleManagement.tsx(281,70): error TS2322: Type '{ children: Element[]; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/people/departments/DepartmentMaster.tsx(60,17): error TS2322: Type '{ children: Element; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/people/employees/EmployeeMaster.tsx(206,17): error TS2322: Type '{ children: Element; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/people/roles/ApprovalAuthority.tsx(186,17): error TS2322: Type '{ children: Element; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/people/roles/RoleAssignment.tsx(190,17): error TS2322: Type '{ children: Element; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/people/roles/RoleMaster.tsx(189,17): error TS2322: Type '{ children: Element; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
+src/components/planner/InteractivePlannerActions.tsx(351,21): error TS2322: Type '{ children: Element; isOpen: boolean; onClose: () => void; title: string; size: string; }' is not assignable to type 'IntrinsicAttributes & ModalProps'.
+  Property 'size' does not exist on type 'IntrinsicAttributes & ModalProps'.
